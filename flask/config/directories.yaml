@@ -1,0 +1,11 @@
+directories:
+    home: /home/richet/TradingSystem
+    config : /home/richet/TradingSystem/config
+  
+module_directories :
+    module : /home/richet/TradingSystem/modules
+    bybit : /home/richet/TradingSystem/modules/Bybit
+    bitmex : /home/richet/TradingSystem/modules/Bitmex
+    alarm : /home/richet/TradingSystem/modules/Alarm
+    db : /home/richet/TradingSystem/modules/DB
+    richetmodule : /home/richet/TradingSystem/modules/richetmodule

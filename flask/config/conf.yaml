@@ -1,0 +1,18 @@
+postgresql:
+    host: 211.218.53.149
+    port: 5600
+    dbname: richet
+    user: aster
+    password : aster1!
+
+bybit:
+    accounts: 
+        5trillion: 
+            5trillion_bybit
+        
+        dr.signal:
+            dr_siganl_account
+        
+        richet:
+            richet_accounts
+            
