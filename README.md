@@ -2,7 +2,13 @@
 
 ```$ docker-compose up -d```
 
+try 
+'''localhost:5000'''
+If you can see all module names, that means it's successful
 
+Home directory is set to /home/richet/TradingSystem
+You may change home directory by controlling Dockerfile in flask directory
+make sure that you also synchronize flask/config/directories.yaml with Dockerfile's directory
 
 ## Docker version
 Client: Docker Engine - Community
